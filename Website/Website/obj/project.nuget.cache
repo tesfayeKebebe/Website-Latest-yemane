@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bnYGIse8IMwVmotXW01dDiDHCbhlezn5B8YtfF+tg1Ny7GP8zmg9A5rGSY54kICp4hX9kQABxi+kqgKvTTW4/w==",
+  "success": true,
+  "projectFilePath": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/Website.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://159.223.8.153:5555/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

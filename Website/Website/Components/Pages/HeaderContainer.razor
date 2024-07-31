@@ -1,0 +1,76 @@
+@using Website.Components.Enums
+        <section class="elementor-section elementor-top-section elementor-element elementor-element-12ee82c elementor-section-content-middle she-header-yes 10 animated-fast elementor-section-boxed elementor-section-height-default elementor-section-height-default she-header" data-id="12ee82c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;none&quot;,&quot;transparent&quot;:&quot;yes&quot;,&quot;background_show&quot;:&quot;yes&quot;,&quot;background&quot;:&quot;#FFFFFF&quot;,&quot;animation_delay&quot;:0,&quot;scroll_distance&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;transparent_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;scroll_distance_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;scroll_distance_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" style="background-color: rgb(255, 255, 255);">
+            <div class="elementor-container elementor-column-gap-no">
+                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-171fc25" data-id="171fc25" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-5e20eba elementor-widget-mobile__width-initial elementor-widget elementor-widget-image" data-id="5e20eba" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <style>/*! elementor - v3.20.0 - 26-03-2024 */
+                                    .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>
+                                <a href="/">
+                                    <img width="184" height="117" src="image/10.png" class="attachment-medium size-medium wp-image-154" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-da70f74" data-id="da70f74" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-4b4a2ac elementor-widget__width-initial elementor-widget elementor-widget-ekit-nav-menu" data-id="4b4a2ac" data-element_type="widget" data-widget_type="ekit-nav-menu.default">
+                            <div class="elementor-widget-container">
+                                <div class="ekit-wid-con ekit_menu_responsive_tablet" data-hamburger-icon="icon icon-menu-11" data-hamburger-icon-type="icon" data-responsive-breakpoint="1024">
+                                    <button class="elementskit-menu-hamburger elementskit-menu-toggler" type="button" aria-label="hamburger-icon">
+                                        <img src="image/Menu.png" alt="" class="ekit-menu-icon icon icon-menu-11"/>
+                                    </button>
+                                    <div id="ekit-megamenu-header-menu" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default ekit-nav-menu-one-page-no ekit-nav-dropdown-hover" ekit-dom-added="yes">
+                                        <ul id="menu-header-menu" class="elementskit-navbar-nav elementskit-menu-po-right submenu-click-on-icon">
+                                            <li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-25 current_page_item menu-item-28 nav-item elementskit-mobile-builder-content active" data-vertical-menu="750px">
+                                                <a @onclick="@(()=>SetClass(HeaderContents.Home))" class="@(GetClass(HeaderContents.Home))" href="/" >Home</a>
+                                            </li>
+                                            <li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20 nav-item elementskit-mobile-builder-content" data-vertical-menu="750px">
+                                                <a href="/about" @onclick="@(()=>SetClass(HeaderContents.About))"  class="@(GetClass(HeaderContents.About))">About</a>
+                                            </li>
+                                            <li id="menu-item-661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-661 nav-item elementskit-mobile-builder-content" data-vertical-menu="750px">
+                                                <a href="#services" @onclick="@(()=>SetClass(HeaderContents.Services))" class="@(GetClass(HeaderContents.Services))">Services</a>
+                                            </li>
+                                            <li id="menu-item-662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-662 nav-item elementskit-mobile-builder-content" data-vertical-menu="750px">
+                                                <a href="#why-us" @onclick="@(()=>SetClass(HeaderContents.WhyUs))" class="@(GetClass(HeaderContents.WhyUs))">Why Us?</a>
+                                            </li>
+                                            <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 nav-item elementskit-mobile-builder-content" data-vertical-menu="750px">
+                                                <a href="/blog" @onclick="@(()=>SetClass(HeaderContents.Blog))" class="@(GetClass(HeaderContents.Blog))">Blog</a>
+                                            </li>
+                                            <li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24 nav-item elementskit-mobile-builder-content" data-vertical-menu="750px">
+                                                <a href="/contact-us" @onclick="@(()=>SetClass(HeaderContents.ContactUs))" class="@(GetClass(HeaderContents.ContactUs))">Contact Us</a>
+                                            </li>
+                                       
+                                         
+                                           
+                                        </ul>
+                                        <div class="elementskit-nav-identity-panel">
+                                            <div class="elementskit-site-title">
+                                                <a class="elementskit-nav-logo" href="/" target="_self" rel="">
+                                                    <img width="100" height="64" src="image/10.png" class="attachment-full size-full" alt="" decoding="async">
+                                                </a>
+                                            </div><button class="elementskit-menu-close elementskit-menu-toggler" type="button">X</button>
+                                        </div>
+                                    </div>
+                                    <div class="elementskit-menu-overlay elementskit-menu-offcanvas-elements elementskit-menu-toggler ekit-nav-menu--overlay"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+@code {
+     private HeaderContents Selected { get; set; }
+    private void SetClass(HeaderContents header)
+    {
+        Selected = header;
+    }
+    private string GetClass(HeaderContents header)
+    {
+        return header == Selected ? "ekit-menu-nav-link header-active" : "ekit-menu-nav-link";
+    }
+}

@@ -1,0 +1,22 @@
+.flex {
+    display: flex
+}
+.justify-between {
+    justify-content: space-between
+}
+.sina-news-container {
+    display: flex;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.sina-news-content {
+    display: inline-block;
+    padding-right: 50px; /* Adjust the gap between the sliding elements */
+}
+.header-active {
+   color: #FFBC31;
+}
+.elementskit-navbar-nav-default .elementskit-navbar-nav > li > a.header-active {
+    color: #FFBC31; /* Active link color */
+}

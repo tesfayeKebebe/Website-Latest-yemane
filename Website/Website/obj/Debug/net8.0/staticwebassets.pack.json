@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/obj/Debug/net8.0/scopedcss/projectbundle/Website.bundle.scp.css",
+      "PackagePath": "staticwebassets/Website.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/all.min.3.20.3.css",
+      "PackagePath": "staticwebassets/css/all.min.3.20.3.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/animations.min.3.20.3.css",
+      "PackagePath": "staticwebassets/css/animations.min.3.20.3.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/bdt-uikit3.17.0.css",
+      "PackagePath": "staticwebassets/css/bdt-uikit3.17.0.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/brands.min.5.15.3.css",
+      "PackagePath": "staticwebassets/css/brands.min.5.15.3.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/contact-us.css",
+      "PackagePath": "staticwebassets/css/contact-us.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/ekiticons.3.1.0.css",
+      "PackagePath": "staticwebassets/css/ekiticons.3.1.0.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/elementor-icons.min.5.29.0.css",
+      "PackagePath": "staticwebassets/css/elementor-icons.min.5.29.0.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/ep-animated-gradient-background.5.5.6.css",
+      "PackagePath": "staticwebassets/css/ep-animated-gradient-background.5.5.6.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/ep-helper5.5.6.css",
+      "PackagePath": "staticwebassets/css/ep-helper5.5.6.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/favicon.png",
+      "PackagePath": "staticwebassets/css/favicon.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/fontawesome.min.5.15.3.css",
+      "PackagePath": "staticwebassets/css/fontawesome.min.5.15.3.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/frontend-lite.min.3.20.3.css",
+      "PackagePath": "staticwebassets/css/frontend-lite.min.3.20.3.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/frontend-lite.min.css",
+      "PackagePath": "staticwebassets/css/frontend-lite.min.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/global1712390872.css",
+      "PackagePath": "staticwebassets/css/global1712390872.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/header-footer.min3.0.1.css",
+      "PackagePath": "staticwebassets/css/header-footer.min3.0.1.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/metform-ui.3.8.6.css",
+      "PackagePath": "staticwebassets/css/metform-ui.3.8.6.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/new-style.css",
+      "PackagePath": "staticwebassets/css/new-style.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/post-100.1712390870.css",
+      "PackagePath": "staticwebassets/css/post-100.1712390870.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/post-1001712390870.css",
+      "PackagePath": "staticwebassets/css/post-1001712390870.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/post-11.1712454118.css",
+      "PackagePath": "staticwebassets/css/post-11.1712454118.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/post-12.712391581.css",
+      "PackagePath": "staticwebassets/css/post-12.712391581.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/post-1203.1712390909.css",
+      "PackagePath": "staticwebassets/css/post-1203.1712390909.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/post-1216.1712390872.css",
+      "PackagePath": "staticwebassets/css/post-1216.1712390872.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/post-170.1712391574.css",
+      "PackagePath": "staticwebassets/css/post-170.1712391574.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/post-1701712391574.css",
+      "PackagePath": "staticwebassets/css/post-1701712391574.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/post-251712390872.css",
+      "PackagePath": "staticwebassets/css/post-251712390872.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/post-61712390870.css",
+      "PackagePath": "staticwebassets/css/post-61712390870.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/regular.min.5.15.3.css",
+      "PackagePath": "staticwebassets/css/regular.min.5.15.3.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/responsive.3.1.0.css",
+      "PackagePath": "staticwebassets/css/responsive.3.1.0.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/responsive3.1.0.css",
+      "PackagePath": "staticwebassets/css/responsive3.1.0.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/she-header-style.1.6.10.css",
+      "PackagePath": "staticwebassets/css/she-header-style.1.6.10.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/sina-widgets.min.3.5.1.css",
+      "PackagePath": "staticwebassets/css/sina-widgets.min.3.5.1.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/solid.min.5.15.3.css",
+      "PackagePath": "staticwebassets/css/solid.min.5.15.3.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/style.min.2.8.2.css",
+      "PackagePath": "staticwebassets/css/style.min.2.8.2.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/style.min3.0.1.css",
+      "PackagePath": "staticwebassets/css/style.min3.0.1.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/style1.3.8.6.css",
+      "PackagePath": "staticwebassets/css/style1.3.8.6.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/style3.8.6.css",
+      "PackagePath": "staticwebassets/css/style3.8.6.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/styles593.css",
+      "PackagePath": "staticwebassets/css/styles593.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/swiper.min.8.4.5.css",
+      "PackagePath": "staticwebassets/css/swiper.min.8.4.5.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/text-editor3.8.6.css",
+      "PackagePath": "staticwebassets/css/text-editor3.8.6.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/theme.min3.0.1.css",
+      "PackagePath": "staticwebassets/css/theme.min3.0.1.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/v4-shims.min.3.20.3.css",
+      "PackagePath": "staticwebassets/css/v4-shims.min.3.20.3.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/widget-icon-box.min.css",
+      "PackagePath": "staticwebassets/css/widget-icon-box.min.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/css/widget-styles.3.1.0.css",
+      "PackagePath": "staticwebassets/css/widget-styles.3.1.0.css"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/10-150x150.png",
+      "PackagePath": "staticwebassets/image/10-150x150.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/10-300x300.png",
+      "PackagePath": "staticwebassets/image/10-300x300.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/10.png",
+      "PackagePath": "staticwebassets/image/10.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/101.png",
+      "PackagePath": "staticwebassets/image/101.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/4.png",
+      "PackagePath": "staticwebassets/image/4.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/5g.gif",
+      "PackagePath": "staticwebassets/image/5g.gif"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/Call_to_Actions1-300x295.png",
+      "PackagePath": "staticwebassets/image/Call_to_Actions1-300x295.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/Call_to_Actions1.png",
+      "PackagePath": "staticwebassets/image/Call_to_Actions1.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/ContactUsBg.png",
+      "PackagePath": "staticwebassets/image/ContactUsBg.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/Menu.png",
+      "PackagePath": "staticwebassets/image/Menu.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/Mission.png",
+      "PackagePath": "staticwebassets/image/Mission.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/Value.png",
+      "PackagePath": "staticwebassets/image/Value.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/Vision.png",
+      "PackagePath": "staticwebassets/image/Vision.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/a-coloured-150x150.png",
+      "PackagePath": "staticwebassets/image/a-coloured-150x150.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/a-coloured-300x300.png",
+      "PackagePath": "staticwebassets/image/a-coloured-300x300.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/a-coloured.png",
+      "PackagePath": "staticwebassets/image/a-coloured.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/customization-coloured-150x150.png",
+      "PackagePath": "staticwebassets/image/customization-coloured-150x150.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/customization-coloured-300x300.png",
+      "PackagePath": "staticwebassets/image/customization-coloured-300x300.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/customization-coloured.png",
+      "PackagePath": "staticwebassets/image/customization-coloured.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/ecommerce-coloured-150x150.png",
+      "PackagePath": "staticwebassets/image/ecommerce-coloured-150x150.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/ecommerce-coloured-300x300.png",
+      "PackagePath": "staticwebassets/image/ecommerce-coloured-300x300.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/ecommerce-coloured.png",
+      "PackagePath": "staticwebassets/image/ecommerce-coloured.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/facebook.png",
+      "PackagePath": "staticwebassets/image/facebook.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/gif.mp4",
+      "PackagePath": "staticwebassets/image/gif.mp4"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/img-288x300.png",
+      "PackagePath": "staticwebassets/image/img-288x300.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/img.png",
+      "PackagePath": "staticwebassets/image/img.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/instagram.png",
+      "PackagePath": "staticwebassets/image/instagram.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/linkedin.png",
+      "PackagePath": "staticwebassets/image/linkedin.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/logo-color.png",
+      "PackagePath": "staticwebassets/image/logo-color.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/logox100.png",
+      "PackagePath": "staticwebassets/image/logox100.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/mobile-coloured-150x150.png",
+      "PackagePath": "staticwebassets/image/mobile-coloured-150x150.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/mobile-coloured-300x300.png",
+      "PackagePath": "staticwebassets/image/mobile-coloured-300x300.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/mobile-coloured.png",
+      "PackagePath": "staticwebassets/image/mobile-coloured.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/support-coloured-150x150.png",
+      "PackagePath": "staticwebassets/image/support-coloured-150x150.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/support-coloured-300x300.png",
+      "PackagePath": "staticwebassets/image/support-coloured-300x300.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/support-coloured.png",
+      "PackagePath": "staticwebassets/image/support-coloured.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/telegram.png",
+      "PackagePath": "staticwebassets/image/telegram.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/web-dev-coloured-150x150.png",
+      "PackagePath": "staticwebassets/image/web-dev-coloured-150x150.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/web-dev-coloured-300x300.png",
+      "PackagePath": "staticwebassets/image/web-dev-coloured-300x300.png"
+    },
+    {
+      "Id": "/Users/activbetdev./Documents/Tesfaye Doc/Website/Website/wwwroot/image/web-dev-coloured.png",
+      "PackagePath": "staticwebassets/image/web-dev-coloured.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Website.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Website.props",
+      "PackagePath": "build\\Website.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Website.props",
+      "PackagePath": "buildMultiTargeting\\Website.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Website.props",
+      "PackagePath": "buildTransitive\\Website.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
